@@ -1,0 +1,53 @@
+Ouii merci
+Juste se sont des notes merci de ne pas repondre 
+
+Justement, l’objectif est d’intégrer la sécurité de manière progressive et fluide pour éviter des corrections coûteuses en fin de cycle.
+
+Bonjour,
+
+L’objectif aujourd’hui est d’identifier un développeur qui pourra jouer le rôle de Security Champion. L’idée n’est pas de trouver un expert sécurité, mais plutôt un relais dans l’équipe, capable d’accompagner les développeurs et de faciliter l’adoption des bonnes pratiques sans ralentir le delivery.
+——————-
+On va surtout s’intéresser au mindset, à la communication et à la capacité à collaborer avec les équipes sécurité.
+
+—————
+
+Il est aussi important que cette personne ait la capacité d’analyser les problèmes rencontrés et de faire des retours terrain pour améliorer en continu les pratiques et les outils.
+
+——————-
+Mindset devsecops :
+L’objectif est de sécuriser sans ralentir, et d’accompagner plutôt que bloquer
+
+———
+5 questions 
+
+	•	Comment tu perçois la sécurité dans le développement ?
+	•	Est-ce que tu as déjà utilisé des outils comme SonarQube ou des scans de sécurité ?
+	•	Est-ce que tu aides souvent les autres développeurs ou partages des bonnes pratiques ?
+	•	Si une règle sécurité bloque un développeur, comment tu réagis ?
+	•	Selon toi, qu’est-ce qui pourrait freiner l’adoption des pratiques sécurité dans l’équipe ?
+
+————-//————
+Questions / réponses 
+
+1. Comment tu perçois la sécurité dans le développement ?
+→ La sécurité doit être intégrée dès le début pour éviter des corrections tardives et coûteuses.
+
+⸻
+
+2. Est-ce que tu as déjà utilisé des outils comme SonarQube ou des scans de sécurité ?
+→ Oui, j’ai déjà utilisé des outils comme Sonar et corrigé des vulnérabilités.
+
+⸻
+
+3. Est-ce que tu aides souvent les autres développeurs ou partages des bonnes pratiques ?
+→ Oui, j’échange régulièrement avec l’équipe et je partage des bonnes pratiques.
+
+⸻
+
+4. Si une règle sécurité bloque un développeur, comment tu réagis ?
+→ Je cherche à comprendre le problème et à proposer une solution adaptée sans bloquer inutilement.
+
+⸻
+
+5. Selon toi, qu’est-ce qui pourrait freiner l’adoption des pratiques sécurité dans l’équipe ?
+→ Des outils trop complexes, des pipelines lentes ou un manque de compréhension côté développeurs.
